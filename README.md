@@ -7,3 +7,5 @@
 [![release](https://img.shields.io/badge/release-0.0.1-blue.svg)](https://github.com/aaric/cloudtable-achieve/releases)
 
 > Huawei CloudTable Learning.
+
+[Hadoop version support matrix](http://hbase.apache.org/book.html#hadoop)
