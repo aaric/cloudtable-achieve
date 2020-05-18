@@ -1,0 +1,3 @@
+rootProject.name = "cloudtable-achieve"
+
+include "cloudtable-client"
