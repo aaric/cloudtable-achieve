@@ -7,7 +7,7 @@ plugins {
 
 allprojects {
     group = "com.sample"
-    version = "0.0.1-SNAPSHOT"
+    version = "0.1.0-SNAPSHOT"
 
     ext {
         springBootVersion = "2.2.5.RELEASE"

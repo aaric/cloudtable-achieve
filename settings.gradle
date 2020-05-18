@@ -1,3 +1,4 @@
 rootProject.name = "cloudtable-achieve"
 
 include "cloudtable-client"
+//include "cloudtable-samples"
