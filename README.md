@@ -10,7 +10,7 @@
 
 ## 一键安装CloudTable的HBase客户端
 
-> [一键部署客户端。](https://support.huaweicloud.com/usermanual-cloudtable/cloudtable_01_0097.html)
+> [华为云官方参考文档。](https://support.huaweicloud.com/usermanual-cloudtable/cloudtable_01_0097.html)
 
 ```bash
 # su - root
