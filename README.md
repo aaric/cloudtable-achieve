@@ -6,6 +6,18 @@
 [![build](https://github.com/aaric/cloudtable-achieve/workflows/build/badge.svg)](https://github.com/aaric/cloudtable-achieve/actions)
 [![release](https://img.shields.io/badge/release-0.1.0-blue.svg)](https://github.com/aaric/cloudtable-achieve/releases)
 
-> Huawei CloudTable Learning.
+> Huawei CloudTable Learning.  
+>  
+> [支持HBase的Hadoop版本列表](http://hbase.apache.org/book.html#hadoop)
 
-[Hadoop version support matrix](http://hbase.apache.org/book.html#hadoop)
+## 一键安装CloudTable的HBase客户端
+
+> [一键部署客户端。](https://support.huaweicloud.com/usermanual-cloudtable/cloudtable_01_0097.html)
+
+```bash
+# su - root
+sh> curl -O -k "http://cloudtable-publish.obs.myhwclouds.com/quick_start_hbase_shell.sh"
+# $zookeeper_address=zk1:2181,zk2:2181,zk3:2181
+sh> source quick_start_hbase_shell.sh $zookeeper_address
+sh> hbase shell
+```
